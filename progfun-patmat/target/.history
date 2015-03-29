@@ -1,0 +1,15 @@
+sbt compile
+compile
+test
+submit remi.roques@gmail.com VjrD8HK44S
+compile
+test
+submit remi.roques@gmail.com VjrD8HK44S
+styleCheck
+submit remi.roques@gmail.com VjrD8HK44S
+compile
+checkStyle
+styleCheck
+submit remi.roques@gmail.com VjrD8HK44S
+quit
+exit
