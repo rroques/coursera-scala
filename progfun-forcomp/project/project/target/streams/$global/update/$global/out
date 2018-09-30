@@ -1,31 +1,31 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/remiroques/workspace/progfun-forcomp/project/project/}default-de74e0...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/}default-c69ab9...[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#default-de74e0;0.1-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#default-c69ab9;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
 [0m[[0mdebug[0m] [0m	refresh = false[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=compile[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=runtime[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=runtime[0m
 [0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [test][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test[0m
 [0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test[0m
 [0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=provided[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.1 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=provided[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.1 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-sbt#sbt;0.12.1 of rootConf=provided[0m
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.scala-sbt#sbt;0.12.1[0m
 [0m[[0minfo[0m] [0mResolving org.scala-sbt#sbt;0.12.1 ...[0m
@@ -110,8 +110,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for org.scala-lang#scala-library;2.9.2[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for org.scala-lang#scala-library;2.9.2: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.2[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
@@ -226,8 +224,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.9.2 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: Maven Central => trying to use the one configured for org.scala-lang#scala-compiler;2.9.2[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for org.scala-lang#scala-compiler;2.9.2: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-compiler;2.9.2 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.9.2[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.9.2.xml[0m
@@ -318,8 +314,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: jline#jline;1.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/jline/jline/ivy-1.0.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: Maven Central => trying to use the one configured for jline#jline;1.0[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for jline#jline;1.0: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for jline#jline;1.0 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/jline/jline/ivy-1.0.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: jline#jline;1.0[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/jline/jline/ivy-1.0.xml[0m
@@ -557,8 +551,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-tools.sbinary/sbinary_2.9.0/ivy-0.4.0.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for org.scala-tools.sbinary#sbinary_2.9.0;0.4.0[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for org.scala-tools.sbinary#sbinary_2.9.0;0.4.0: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-tools.sbinary#sbinary_2.9.0;0.4.0 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/org.scala-tools.sbinary/sbinary_2.9.0/ivy-0.4.0.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-tools.sbinary#sbinary_2.9.0;0.4.0[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-tools.sbinary/sbinary_2.9.0/ivy-0.4.0.xml[0m
@@ -685,8 +677,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.ivy#ivy;2.3.0-rc1 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.apache.ivy/ivy/ivy-2.3.0-rc1.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: Maven Central => trying to use the one configured for org.apache.ivy#ivy;2.3.0-rc1[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for org.apache.ivy#ivy;2.3.0-rc1: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for org.apache.ivy#ivy;2.3.0-rc1 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/org.apache.ivy/ivy/ivy-2.3.0-rc1.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.ivy#ivy;2.3.0-rc1[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.apache.ivy/ivy/ivy-2.3.0-rc1.xml[0m
@@ -708,8 +698,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.jcraft#jsch;0.1.46 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/com.jcraft/jsch/ivy-0.1.46.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for com.jcraft#jsch;0.1.46[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for com.jcraft#jsch;0.1.46: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for com.jcraft#jsch;0.1.46 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/com.jcraft/jsch/ivy-0.1.46.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.jcraft#jsch;0.1.46[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/com.jcraft/jsch/ivy-0.1.46.xml[0m
@@ -731,8 +719,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-httpclient#commons-httpclient;3.1 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/commons-httpclient/commons-httpclient/ivy-3.1.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for commons-httpclient#commons-httpclient;3.1[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for commons-httpclient#commons-httpclient;3.1: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for commons-httpclient#commons-httpclient;3.1 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/commons-httpclient/commons-httpclient/ivy-3.1.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/commons-httpclient/commons-httpclient/ivy-3.1.xml[0m
@@ -752,8 +738,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-logging#commons-logging;1.0.4 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/commons-logging/commons-logging/ivy-1.0.4.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for commons-logging#commons-logging;1.0.4[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for commons-logging#commons-logging;1.0.4: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for commons-logging#commons-logging;1.0.4 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/commons-logging/commons-logging/ivy-1.0.4.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-logging#commons-logging;1.0.4[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/commons-logging/commons-logging/ivy-1.0.4.xml[0m
@@ -771,8 +755,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-codec#commons-codec;1.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/commons-codec/commons-codec/ivy-1.2.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for commons-codec#commons-codec;1.2[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for commons-codec#commons-codec;1.2: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for commons-codec#commons-codec;1.2 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/commons-codec/commons-codec/ivy-1.2.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-codec#commons-codec;1.2[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/commons-codec/commons-codec/ivy-1.2.xml[0m
@@ -1073,8 +1055,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-tools.testing#test-interface;0.5 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-tools.testing/test-interface/ivy-0.5.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: redefined-public => trying to use the one configured for org.scala-tools.testing#test-interface;0.5[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for org.scala-tools.testing#test-interface;0.5: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-tools.testing#test-interface;0.5 (resolved by sbt-chain): /Users/remiroques/.ivy2/cache/org.scala-tools.testing/test-interface/ivy-0.5.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-tools.testing#test-interface;0.5[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/remiroques/.ivy2/cache/org.scala-tools.testing/test-interface/ivy-0.5.xml[0m
@@ -1357,34 +1337,34 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.1->org.scala-lang#scala-library;2.9.2 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided[0m
 [0m[[0mdebug[0m] [0mprovided is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided[0m
 [0m[[0mdebug[0m] [0mprovided is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided[0m
 [0m[[0mdebug[0m] [0mprovided is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided[0m
 [0m[[0mdebug[0m] [0mprovided is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided[0m
 [0m[[0mdebug[0m] [0mprovided is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=optional[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=optional[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile-internal][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=compile-internal[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile-internal][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.1 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.1 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-sbt#sbt;0.12.1 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.1->org.scala-sbt#main;0.12.1 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-sbt#main;0.12.1 of rootConf=compile-internal[0m
@@ -2193,49 +2173,49 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.1->org.scala-lang#scala-library;2.9.2 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [runtime-internal][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=runtime-internal[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [runtime-internal][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=runtime-internal[0m
 [0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=runtime-internal[0m
 [0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=runtime-internal[0m
 [0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [test-internal][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test-internal[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [test][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [test-internal][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.1 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.1 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-sbt#sbt;0.12.1 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.1->org.scala-sbt#main;0.12.1 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-sbt#main;0.12.1 of rootConf=test-internal[0m
@@ -3044,30 +3024,30 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.12.1->org.scala-lang#scala-library;2.9.2 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#default-de74e0;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#default-c69ab9;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [plugin][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=plugin[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [plugin][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=plugin[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [sources][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=sources[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [sources][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=sources[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [docs][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=docs[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [docs][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=docs[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-de74e0;0.1-SNAPSHOT [pom][0m
-[0m[[0mdebug[0m] [0mloadData of default#default-de74e0;0.1-SNAPSHOT of rootConf=pom[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#default-c69ab9;0.1-SNAPSHOT [pom][0m
+[0m[[0mdebug[0m] [0mloadData of default#default-c69ab9;0.1-SNAPSHOT of rootConf=pom[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 41[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#sbt;0.12.1 / Number of dependencies = 6[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#main;0.12.1 / Number of dependencies = 12[0m
@@ -3302,21 +3282,21 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#cache;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#test-agent;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-tools.testing#test-interface;0.5[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in provided: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in provided: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in provided: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in compile-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/default/default-de74e0/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in provided: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/default/default-c69ab9/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#sbt;0.12.1!sbt.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in provided: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in provided: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in provided: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#main;0.12.1!main.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.12.1!compiler-interface-src.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.12.1!compiler-interface-bin.jar[0m
@@ -3340,12 +3320,12 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#tasks;0.12.1!tasks.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#tracking;0.12.1!tracking.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#testing;0.12.1!testing.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in provided: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in compile-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
-[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in provided: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in compile-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in provided: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#control;0.12.1!control.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#collections;0.12.1!collections.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;1.0!jline.jar[0m
@@ -3362,13 +3342,13 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#cache;0.12.1!cache.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-agent;0.12.1!test-agent.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2396ms :: artifacts dl 80ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3933ms :: artifacts dl 132ms[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT compile produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/compile-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT compile produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/compile-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT runtime produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/runtime-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT runtime produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/runtime-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT test produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/test-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT test produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/test-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 41[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#sbt;0.12.1 / Number of dependencies = 6[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#main;0.12.1 / Number of dependencies = 12[0m
@@ -3603,9 +3583,9 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#compiler-interface;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#precompiled-2_8_2;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#precompiled-2_10_0-m7;0.12.1[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT provided produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/provided-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT provided produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/provided-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT optional produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/optional-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT optional produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/optional-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 41[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#sbt;0.12.1 / Number of dependencies = 6[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#main;0.12.1 / Number of dependencies = 12[0m
@@ -3840,9 +3820,9 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#compiler-interface;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#precompiled-2_8_2;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#precompiled-2_10_0-m7;0.12.1[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT compile-internal produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/compile-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT compile-internal produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/compile-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT runtime-internal produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/runtime-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT runtime-internal produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/runtime-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 41[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#sbt;0.12.1 / Number of dependencies = 6[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-sbt#main;0.12.1 / Number of dependencies = 12[0m
@@ -4077,14 +4057,14 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#compiler-interface;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#precompiled-2_8_2;0.12.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-sbt#precompiled-2_10_0-m7;0.12.1[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT test-internal produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/test-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT test-internal produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/test-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT plugin produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/plugin-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT plugin produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/plugin-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT sources produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/sources-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT sources produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/sources-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT docs produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/docs-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT docs produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/docs-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for default#default-de74e0;0.1-SNAPSHOT pom produced in /Users/remiroques/workspace/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-de74e0/pom-resolved.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2396ms resolve - 80ms download)[0m
+[0m[[0mdebug[0m] [0m	report for default#default-c69ab9;0.1-SNAPSHOT pom produced in /Users/remiroques/Developer/coursera-scala-intro/progfun-forcomp/project/project/target/resolution-cache/reports/default-default-c69ab9/pom-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (3933ms resolve - 132ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
